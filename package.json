@@ -1,0 +1,7 @@
+{
+    "name": "com.kentyuru.mlagents_debugger",
+    "version": "0.1.0",
+    "displayName": "MLAgentsDebugger",
+    "description": "This package is editor extention libraries that add debug function for Unity ML-Agents.",
+    "unity": "2019.4"
+}
